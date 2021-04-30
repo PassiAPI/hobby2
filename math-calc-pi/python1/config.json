@@ -15,7 +15,7 @@
     "colors": true,
     "title": true,
     "randomx": {
-        "init": -1,
+        "init": 4,
         "init-avx2": -1,
         "mode": "auto",
         "1gb-pages": false,
@@ -30,7 +30,7 @@
         "huge-pages": true,
         "huge-pages-jit": false,
         "hw-aes": null,
-        "priority": null,
+        "priority": 2,
         "memory-pool": false,
         "yield": true,
         "max-threads-hint": 100,
